@@ -1,0 +1,67 @@
+﻿.auto-style1 {
+    width: 70%;
+}
+
+.auto-style2 {
+    width: 100%;
+}
+
+.auto-style3 {
+    text-align: center;
+}
+
+body {
+    background-image: url('image1/tr.jpg');
+    background-size: cover; /* Optional: adjust how the image covers the element */
+    background-repeat: no-repeat; /* Optional: prevent image repetition */
+}
+.footer {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+    .footer .footer-content {
+        display: flex;
+        justify-content: space-around;
+        padding: 20px;
+    }
+
+    .footer .footer-section {
+        flex: 1;
+        padding: 10px;
+    }
+
+    .footer .footer-bottom {
+        background: #222;
+        color: #aaa;
+        padding: 10px 0;
+        text-align: center;
+    }
+
+    .footer .footer-section h2 {
+        margin-bottom: 15px;
+    }
+
+    .footer .footer-section ul {
+        list-style: none;
+        padding: 0;
+    }
+
+        .footer .footer-section ul li {
+            margin-bottom: 10px;
+        }
+
+            .footer .footer-section ul li a {
+                color: #bbb;
+                text-decoration: none;
+            }
+
+                .footer .footer-section ul li a:hover {
+                    color: #fff;
+                                   
+                }

@@ -1,0 +1,30 @@
+﻿.auto-style1 {
+    width: 70%;
+}
+
+.auto-style2 {
+    width: 101%;
+    height: 616px;
+}
+
+.auto-style3 {
+    text-align: center;
+}
+
+.auto-style4 {
+    height: 765px;
+}
+
+body {
+    background-image: url('image1/tr.jpg');
+    background-size: cover; /* Optional: adjust how the image covers the element */
+    background-repeat: no-repeat; /* Optional: prevent image repetition */
+}
+
+.auto-style5 {
+    margin-bottom: 0px;
+}
+
+.auto-style6 {
+    height: 19px;
+}
