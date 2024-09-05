@@ -56,6 +56,4 @@ For any queries, please reach out to:
 **Mahendranath**  
 Email: mahendranath123mp@gmail.com
 
----
 
-Feel free to customize this README based on your specific project details!
